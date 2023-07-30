@@ -1,0 +1,3 @@
+first case test-->>functionality(a)
+second case test-->>functionality(b,c)
+third case test-->>functionality(d,e)
